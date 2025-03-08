@@ -1,0 +1,10 @@
+{
+  "Emails": [
+    { "id": "email1", "title": "Standard Reply", "text": "Thank you for reaching out!" },
+    { "id": "email2", "title": "Follow-up", "text": "Just checking in on this!" }
+  ],
+  "Emojis": [
+    { "id": "emoji1", "title": "😀 Smiley", "text": "😀" },
+    { "id": "emoji2", "title": "🔥 Fire", "text": "🔥" }
+  ]
+}
