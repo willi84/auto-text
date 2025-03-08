@@ -1,16 +1,17 @@
 {
   "Emails": [
-    { "id": "email1", "title": "Standard Reply", "text": "Thank you for reaching out!" },
-    { "id": "email2", "title": "Follow-up", "text": "Just checking in on this!" },
-    { "id": "email3", "title": "Gruß (privat)", "text": "Gruß Robert!" }
+    { "title": "Standard Reply", "text": "Thank you for reaching out!" },
+    { "title": "Follow-up", "text": "Just checking in on this!" },
+    { "title": "Gruß (privat)", "text": "Gruß Robert!" }
   ],
   "Emojis": [
-    { "id": "emoji1", "title": "😀 Smiley", "text": "😀" },
-    { "id": "emoji2", "title": "🔥 Fire", "text": "🔥" },
-     { "id": "emoji3", "title": "💡 Lightbulb", "text": "💡" }
+    { "title": "😀 Smiley", "text": "😀" },
+    { "title": "🔥 Fire", "text": "🔥" },
+     { "title": "💡 Lightbulb", "text": "💡" },
+    { "title": "💡 Lightbulb", "text": "💡" }
   ],
  "Markdown": [
-     { "id": "md1", "title": "codeblock (``` ```)", "text": "```  CODEBLOCK ```" },
-    { "id": "md1", "title": "codeblock-inline (``)", "text": "```" }
+     { "title": "codeblock (``` ```)", "text": "```  CODEBLOCK ```" },
+    { "title": "codeblock-inline (``)", "text": "```" }
   ]
 }
