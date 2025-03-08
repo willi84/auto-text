@@ -6,6 +6,7 @@
   ],
   "Emojis": [
     { "id": "emoji1", "title": "😀 Smiley", "text": "😀" },
-    { "id": "emoji2", "title": "🔥 Fire", "text": "🔥" }
+    { "id": "emoji2", "title": "🔥 Fire", "text": "🔥" },
+     { "id": "emoji3", "title": "💡", "text": "💡" }
   ]
 }
