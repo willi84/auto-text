@@ -8,8 +8,5 @@
     { "id": "emoji1", "title": "😀 Smiley", "text": "😀" },
     { "id": "emoji2", "title": "🔥 Fire", "text": "🔥" },
      { "id": "emoji3", "title": "💡 Lightbulb", "text": "💡" }
-  ],
-  "Markdown": [
-     { "id": "md1", "title": "codeblock", "text": "```  CODEBLOCK ```" }
   ]
 }
