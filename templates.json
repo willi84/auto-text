@@ -1,7 +1,8 @@
 {
   "Emails": [
     { "id": "email1", "title": "Standard Reply", "text": "Thank you for reaching out!" },
-    { "id": "email2", "title": "Follow-up", "text": "Just checking in on this!" }
+    { "id": "email2", "title": "Follow-up", "text": "Just checking in on this!" },
+    { "id": "email3", "title": "Gruß (privat)", "text": "Gruß Robert!" }
   ],
   "Emojis": [
     { "id": "emoji1", "title": "😀 Smiley", "text": "😀" },
