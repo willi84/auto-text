@@ -10,6 +10,6 @@
      { "id": "emoji3", "title": "💡 Lightbulb", "text": "💡" }
   ],
   "Markdown": [
-     { "id": "md1", "title": "codeblock", "text": "```  CODEBLOCK ```" },
+     { "id": "md1", "title": "codeblock", "text": "```  CODEBLOCK ```" }
   ]
 }
